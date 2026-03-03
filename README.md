@@ -36,8 +36,8 @@ DESCRIPTION:
  The application runs in a continuous loop, displaying a menu to the user. Based on the user's choice, specific methods are executed.
 
 5. OOP Concepts Implemented:
+   
  5.1 Class
-
  A class named AirConditioner is created to represent the air conditioner system. It acts as a blueprint for defining the properties and behaviors of the AC.
 
  5.2 Object
