@@ -64,8 +64,8 @@ DESCRIPTION:
  Better object-oriented design
 
 6. Functional Modules:
-  6.1 Power Control
 
+  6.1 Power Control
   The power toggle function switches the AC between ON and OFF states. It uses Boolean logic to change the current state.
 
   6.2 Temperature Control
